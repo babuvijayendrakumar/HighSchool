@@ -42,11 +42,11 @@ img{
                 font-size: 20px;
                 
             }
-            .main-nav li.active a{
-                border: 1px solid white;
+            .main-nav li a{
+                border: 1px solid green;
             }
             .main-nav li a:hover{
-                border: 1px solid white;
+                border: 1px solid red;
             }
             
 
